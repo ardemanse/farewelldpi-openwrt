@@ -1,12 +1,12 @@
-[![GitHub Release](https://img.shields.io/github/release/remittor/zapret-openwrt)](https://github.com/remittor/zapret-openwrt/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/remittor/zapret-openwrt/total.svg)](https://github.com/remittor/zapret-openwrt/releases)
+[![GitHub Release](https://img.shields.io/github/release/ardemanse/zapret-openwrt)](https://github.com/remittor/zapret-openwrt/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/ardemanse/zapret-openwrt/total.svg)](https://github.com/remittor/zapret-openwrt/releases)
 # FarewellDPI for OpenWRT
 
 Based on Zapret - a robust network packet modification utility for bypassing DPI systems
 
-[Instructions for installing](https://github.com/remittor/zapret-openwrt/wiki/Installing-zapret‐openwrt-package)
+[Instructions for installing](https://github.com/ardemanse/zapret-openwrt/wiki/Installing-zapret‐openwrt-package)
 
-[Download page](https://github.com/remittor/zapret-openwrt/releases)
+[Download page](https://github.com/ardemanse/zapret-openwrt/releases)
 
 ## Screenshots
 
