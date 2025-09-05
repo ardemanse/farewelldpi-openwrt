@@ -4,12 +4,12 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=luci-app-zapret
+PKG_NAME:=luci-app-farewelldpi
 PKG_VERSION:=71.20250708
 PKG_LICENSE:=MIT
-PKG_MAINTAINER:=remittor <https://github.com/remittor>
+PKG_MAINTAINER:=ardemanse <https://github.com/ardemanse>
 
-LUCI_TITLE:=LuCI support for zapret
+LUCI_TITLE:=LuCI control panel for Zapret
 LUCI_DEPENDS:=+zapret
 LUCI_PKGARCH:=all
 
